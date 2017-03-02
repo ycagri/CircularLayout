@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/ic_flash_on</item>
+        <item>@drawable/ic_battery</item>
+        <item>@drawable/ic_gps_not_fixed</item>
+        <item>@drawable/ic_bluetooth</item>
+    </array>
+
+    <array name="colors">
+        <item>@android:color/holo_blue_bright</item>
+        <item>@android:color/holo_purple</item>
+        <item>@android:color/holo_orange_light</item>
+        <item>@android:color/holo_green_light</item>
+    </array>
+
+    <array name="titles">
+        <item>Flash</item>
+        <item>Battery</item>
+        <item>Gps</item>
+        <item>Bluetooth</item>
+    </array>
+</resources>
